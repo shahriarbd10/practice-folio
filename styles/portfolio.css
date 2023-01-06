@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    font-family: 'Inter', sans-serif;
+}
+.header{
+  
+    background-image: url(../images/donation13.jpg);
+    width:100%;
+    height:100%;
+    border: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+}
+
+.btn-primary{
+    position: center;
+    color: #FFFFFF;
+   font-weight: 700;
+   font-size: 20px;
+   border: 0;
+   padding: 18px 35px;
+   height: 64px;
+   background: #FF5959;
+   border-radius: 5px;
+   
+}
+/*banner styles */
+.banner{
+   text-align: center;
+    margin: 0 200px;
+    padding: 174px 307px;
+
+
+}
+
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.banner-description{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+
